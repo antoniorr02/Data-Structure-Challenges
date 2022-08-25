@@ -1,0 +1,12 @@
+Buenas, como verá he utilizado clion para configurar mi proyecto y realizar el reto 5:
+
+En el proyecto encontrará:
+
+- CMakeList.txt que he configurado para compilar el proyecto, y generar todos los ejecutables de los 3 ejercicios simultaneamente.
+
+- La carpeta estudiante:
+	
+	- src: Contiene los 3 ejercicios que resuelven el reto.
+	- include: Incluye la cabecera e implementación del árbol binario, del que utilizo ciertas funciones en la resolución del reto.
+
+- Por último, en la carpeta cmake-build-debug, encontrará los ejecutables tras compilar el proyecto con el CMakeList.txt, con los que podrá comprobar si la solución dada es correcta.

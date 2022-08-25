@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "reto5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio3_ExamenEnero2021::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio3_ExamenEnero2021-Debug-ade3dbaf904d0f929046.json",
+					"name" : "Ejercicio3_ExamenEnero2021",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio38::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio38-Debug-066080e2780d04302add.json",
+					"name" : "ejercicio38",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio40::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio40-Debug-628cbecd346498f2f9db.json",
+					"name" : "ejercicio40",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio41-Debug-c06158af33a3339e7255.json",
+					"name" : "ejercicio41",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/antonio/CLionProjects/reto5/cmake-build-debug",
+		"source" : "/home/antonio/CLionProjects/reto5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

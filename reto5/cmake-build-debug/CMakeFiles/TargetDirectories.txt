@@ -1,0 +1,6 @@
+/home/antonio/CLionProjects/reto5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antonio/CLionProjects/reto5/cmake-build-debug/CMakeFiles/ejercicio40.dir
+/home/antonio/CLionProjects/reto5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/antonio/CLionProjects/reto5/cmake-build-debug/CMakeFiles/Ejercicio3_ExamenEnero2021.dir
+/home/antonio/CLionProjects/reto5/cmake-build-debug/CMakeFiles/ejercicio41.dir
+/home/antonio/CLionProjects/reto5/cmake-build-debug/CMakeFiles/ejercicio38.dir
